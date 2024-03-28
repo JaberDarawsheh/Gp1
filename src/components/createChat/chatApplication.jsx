@@ -6,7 +6,7 @@ import '@fortawesome/fontawesome-free/css/all.css';
 
 function ChatApplication() {
   return (
-    <div className="__main">
+    <div className="__main">   
          <ChatBody />
     </div>
   );
